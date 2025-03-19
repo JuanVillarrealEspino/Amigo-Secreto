@@ -5,39 +5,18 @@ Amigo Secreto es una aplicación web sencilla que permite a los usuarios ingresa
 
 Funcionalidades ✨
 
-Agregar nombres: Los usuarios pueden escribir nombres y agregarlos a una lista visible.
+* Agregar nombres: Los usuarios pueden escribir nombres y agregarlos a una lista visible.
 
-Validación de entrada: Se asegura que los usuarios no ingresen nombres vacíos.
+* Validación de entrada: Se asegura que los usuarios no ingresen nombres vacíos.
 
-Visualización de lista: Los nombres ingresados se muestran en pantalla en tiempo real.
+* Visualización de lista: Los nombres ingresados se muestran en pantalla en tiempo real.
 
-Sorteo aleatorio: Se selecciona al azar un nombre de la lista y se muestra en pantalla.
-
-Capturas de Pantalla 📸
-
-Aquí puedes agregar capturas de pantalla del funcionamiento de la aplicación.
-
-Interfaz principal
-
-
-Añadir nombres
-
-
-Realizar sorteo
-
-
-Cómo Ejecutar 🚀
-
-Clona este repositorio en tu máquina local:
-
-git clone https://github.com/tu-usuario/amigo-secreto.git
-
-Abre el archivo index.html en un navegador web.
+* Sorteo aleatorio: Se selecciona al azar un nombre de la lista y se muestra en pantalla.
 
 Tecnologías Utilizadas 🛠️
 
-HTML5 para la estructura de la página.
+* HTML5 para la estructura de la página.
 
-CSS3 para el diseño y estilo.
+* CSS3 para el diseño y estilo.
 
-JavaScript para la lógica del sorteo y manipulación del DOM.
+* JavaScript para la lógica del sorteo y manipulación del DOM.
